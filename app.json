@@ -1,4 +1,16 @@
 {
+"name": "uno",
+    "description": "SOMED UNO.",
+    "logo": "https://telegra.ph/file/ba582d379f2586f227d66.png",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "Musikku",
+    "MusikkuBot",
+    "telegram-bot",
+    "pyrogram"
+    ],
     "stack": "container",
     "env": {
       "TOKEN": {
