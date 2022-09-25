@@ -1,6 +1,6 @@
 {
     "stack": "container",
-    "env": {
+    "config.json.example": {
       "TOKEN": {
         "description": "Token Bot",
         "value": "",
