@@ -1,18 +1,18 @@
-new - Start a new game 
-join - Join the current game 
-start - Start the game 
-leave - Leave the game you're in 
-close - Close the game lobby 
-open - Open the game lobby 
-kill - Terminate the game 
-kick - Kick players out of the game 
-enable_translations - Enable multi-translations 
-disable_translations - Disable multi-translations 
-skip - Skip the current player 
-notify_me - Get a message when there's a new game in this group 
-help - How to use this bot? 
-modes - Explanation of game modes
-settings - Language and other settings 
-stats - Show statistics 
-source - See source information 
-news - All news about this bot
+new - Mulai permainan baru 
+join - Bergabung dengan game saat ini 
+start - Mulai permainan
+leave - Tinggalkan game yang Anda mainkan 
+close - Tutup lobi permainan 
+open - Buka lobi permainan
+kill - Hentikan permainan 
+kick - Tendang pemain keluar dari game
+enable_translations - Aktifkan multi-terjemahan 
+disable_translations - Nonaktifkan multi-terjemahan 
+skip - Lewati pemain saat ini 
+notify_me - Dapatkan pesan jika ada game baru di grup ini 
+help - Bagaimana cara menggunakan bot ini?
+modes - Penjelasan mode permainan
+settings - Bahasa dan pengaturan lainnya 
+stats - Tampilkan statistik
+source - Lihat informasi sumber 
+news - Semua berita tentang bot ini
