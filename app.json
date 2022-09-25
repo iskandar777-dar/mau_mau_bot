@@ -1,6 +1,5 @@
 {
-    "stack": "container",
-    "config.json": {
+    "config": {
       "TOKEN": {
         "description": "Token Bot",
         "value": "",
@@ -25,5 +24,4 @@
               "size": "free"
           }
       },
-      "stack": "container"
   }
