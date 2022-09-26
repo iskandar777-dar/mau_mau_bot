@@ -20,7 +20,7 @@
 import logging
 from datetime import datetime
 
-from telegram.ext import ParseMode, InlineKeyboardMarkup, \
+from telegram import ParseMode, InlineKeyboardMarkup, \
     InlineKeyboardButton
 from telegram.ext import InlineQueryHandler, ChosenInlineResultHandler, \
     CommandHandler, MessageHandler, Filters, CallbackQueryHandler
